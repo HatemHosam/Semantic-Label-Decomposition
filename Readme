@@ -5,5 +5,5 @@ Requirements:
 2. openCV 4.4.1
 3. Numpy 1.22.0
 
-if you use this code, please cite:
+if you use this code, please cite this paper:
 H. Ibrahem, A. Salem, and H.-S. Kang, “Exploration of Semantic Label Decomposition and Dataset Size in Semantic Indoor Scenes Synthesis via Optimized Residual Generative Adversarial Networks,” Sensors, vol. 22, no. 21, p. 8306, Oct. 2022, doi: 10.3390/s22218306.
